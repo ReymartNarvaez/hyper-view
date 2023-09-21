@@ -1,3 +1,9 @@
+import { NavBar } from "../components/NavBar";
+
 export const BrowsePage = () => {
-  return <div>BrowsPage</div>;
+  return (
+    <div>
+      <NavBar />
+    </div>
+  );
 };

@@ -1,6 +1,6 @@
 import background from "../assets/hyperviewbg.png";
-import { LoginForm } from "../components/LoginForm";
-import { LoginLogo } from "../components/LoginLogo";
+import { LoginForm } from "../components/login-page/LoginForm";
+import { LoginLogo } from "../components/login-page/LoginLogo";
 
 export const LoginPage = () => {
   return (
